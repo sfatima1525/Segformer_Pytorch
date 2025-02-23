@@ -36,4 +36,6 @@ setuptools wheel
 Complete library used can be found in Requirements.txt file
 
 # How to perform training
-The most important file is Run_Model.py, that is in charge to start the training or test procedure.
+The most important file is Run_Model.py, that is in charge to start the training procedure.
+
+Reference Base paper link: Thomas, S. M., Lefevre, J. G., Baxter, G., & Hamilton, N. A. (2021). Interpretable deep learning systems for multi-class segmentation and classification of non-melanoma skin cancer. Medical Image Analysis, 68, 101915.
