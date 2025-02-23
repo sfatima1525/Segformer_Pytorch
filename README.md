@@ -4,9 +4,13 @@
 You need to at least install the following libraries:
 
 torch
+
 torchvision
+
 transformers
+
 pyarrow
+
 datasets 
 huggingface-hub
 Pillow
