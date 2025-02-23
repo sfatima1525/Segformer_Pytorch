@@ -33,7 +33,7 @@ scipy
 
 setuptools wheel
 
-Complete library used can be found in Requirements.txt file
+Complete library used can be found in Requirement.txt file
 
 # How to perform training
 The most important file is Run_Model.py, that is in charge to start the training procedure.
