@@ -12,17 +12,26 @@ transformers
 pyarrow
 
 datasets 
-huggingface-hub
-Pillow
-pandas
-numpy
-evaluate
-matplotlib
-scikit-learn
-seaborn
-scipy
-setuptools wheel
 
+huggingface-hub
+
+Pillow
+
+pandas
+
+numpy
+
+evaluate
+
+matplotlib
+
+scikit-learn
+
+seaborn
+
+scipy
+
+setuptools wheel
 
 Complete library used can be found in Requirements.txt file
 
