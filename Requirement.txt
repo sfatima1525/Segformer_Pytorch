@@ -1,0 +1,20 @@
+
+pip install torch
+pip install torchvision
+pip install transformers
+module load arrow
+pip install pyarrow
+pip install datasets 
+pip install huggingface-hub
+pip install Pillow
+pip install pandas
+pip install numpy
+pip install evaluate
+pip install matplotlib
+pip install scikit-learn
+pip install seaborn
+pip install scipy
+pip install --upgrade pip setuptools wheel
+module load gcc cmake arrow
+pip install --no-binary pyarrow pyarrow
+pip install datasets
